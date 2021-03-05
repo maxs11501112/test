@@ -1,0 +1,5 @@
+aaaa:
+	make draft_journal_entry.txt
+add:
+	echo "rrrrrrr">> aaaa.txt
+

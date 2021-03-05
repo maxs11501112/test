@@ -1,0 +1,7 @@
+let a=
+if [[$a%2 -eq 0]]
+then
+	echo $1 " is even."
+else
+	echo $2 " is odd."
+fi
